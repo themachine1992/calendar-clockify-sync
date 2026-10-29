@@ -1,0 +1,7 @@
+{
+  "name": "calendar-clockify-sync",
+  "version": "1.0.0",
+  "description": "Google Apps Script that turns calendar events into Clockify time entries, with a validate-before-register workflow.",
+  "scripts": { "test": "node tests/classifier.test.js" },
+  "license": "MIT"
+}
